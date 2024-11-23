@@ -32,6 +32,6 @@ My first repository.
 <ul>
     <li><strong>Cursed Spirit:</strong> are a race of spiritual beings invisible to humans, incarnated from the cursed energy that leaks out of humans over time due to their negative emotions. Cursed spirits haunt and bring harm to humanity and are consequently the primary targets of jujutsu sorcerers and their exorcist work..</li>
     <li><strong>Jujutsu Sorcerer:</strong>  are individuals secretly trained and employed by the government in Japan to defend humanity from cursed spirits..</li>
-    <li><strong>Charlie Hunnam:</strong> A washed-up former pilot called out of retirement by the Pan Pacific Defense Corps.</li>
-    <li><strong>Idris Elba:</strong> Raleigh's commanding officer in Pan Pacific Defense Corps and former Jaeger pilot dying of radiation poisoning due to lax radiation shielding on the first Jaeger models</li>
+    <li><strong>Yuji Itadori:</strong> Yuji is a young man of average height and appears to have a slender build when wearing baggy clothing, but actually has a lean and muscular physique..</li>
+    <li><strong>Satoru Gojo:</strong> is one of the main protagonists of the Jujutsu Kaisen series. He is a special grade jujutsu sorcerer and widely recognized as the strongest in the world. Satoru is the pride of the Gojo Clan, the first person to inherit both the Limitless and the Six Eyes in four hundred years. He works as a teacher at the Tokyo Jujutsu High and uses his influence to protect and train strong young allies.</li>
 </ul>
